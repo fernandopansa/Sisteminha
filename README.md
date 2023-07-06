@@ -34,3 +34,5 @@ Por enquanto tem apenas o front-end, a idéia é entender o processo de document
 ## Contribuições bem vindas
 
 Se você tiver quiser ajudar, é uma oportunidade de ter um ponto de vista diferente, aprender junto conosco no processo interdisciplinar de desenvolvimento de uma solução que seja implantavel em uma empresa pequena
+
+
