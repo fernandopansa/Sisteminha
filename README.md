@@ -28,3 +28,9 @@ O Objetivo inicial é criar um sistema com:
     - Buscar Fornecedores
     - Relatórios / Fornecedores 
 - Trocas (RMA)
+
+Por enquanto tem apenas o front-end, a idéia é entender o processo de documentação, versionamento e desenvolvimento das etapas do projeto como um todo
+
+## Contribuições bem vindas
+
+Se você tiver quiser ajudar, é uma oportunidade de ter um ponto de vista diferente, aprender junto conosco no processo interdisciplinar de desenvolvimento de uma solução que seja implantavel em uma empresa pequena
